@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a Streamlit-based chatbot application that supports interaction with various types of files, including TXT, PDF, CSV, Excel, and Word files. It utilizes Google Generative AI for natural language processing and LangChain for handling and querying the text data.
+This project is a Streamlit-based chatbot application that supports interaction with various types of files, including TXT, PDF, CSV, Excel Word files. It utilizes Google Generative AI for natural language processing and LangChain for handling and querying the text data.
 
 ## Features
 
