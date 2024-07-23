@@ -6,7 +6,7 @@ This project is a Streamlit-based chatbot application that supports interaction 
 
 ## Features
 
-- **File Uploads**: Upload and process TXT, PDF, CSV, Excel, and Word files.
+- **File Uploads**: Upload and process MYSQL, MONGO DB, TXT, PDF, CSV and Excel  files.
 - **Natural Language Querying**: Ask questions based on the content of uploaded files.
 - **Data Visualization**: Visualize data from CSV and Excel files.
 - **Interactive UI**: Streamlit-based interface for user interaction.
