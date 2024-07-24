@@ -2,11 +2,11 @@
 
 ## Description
 
-This project is a Streamlit-based chatbot application that supports interaction with various types of files, including MYSQL, MONGO DB, TXT, PDF, CSV and Excel files. It utilizes Google Generative AI for natural language processing and LangChain for handling and querying the text data.
+This project is a Streamlit-based chatbot application that supports interaction with various types of files, including MYSQL, TXT, PDF, CSV and Excel files. It utilizes Google Generative AI for natural language processing and LangChain for handling and querying the text data.
 
 ## Features
 
-- **File Uploads**: Upload and process MYSQL, MONGO DB, TXT, PDF, CSV and Excel  files.
+- **File Uploads**: Upload and process MYSQL, TXT, PDF, CSV and Excel  files.
 - **Natural Language Querying**: Ask questions based on the content of uploaded files.
 - **Data Visualization**: Visualize data from CSV and Excel files.
 - **Interactive UI**: Streamlit-based interface for user interaction.
